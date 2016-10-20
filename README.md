@@ -20,3 +20,4 @@ The items marked [approved-in-principle](https://github.com/fsharp/fslang-sugges
 
 ### [View declined suggestions](https://github.com/fsharp/fslang-suggestions/issues?q=is%3Aissue+label%3Adeclined)
 
+### [View suggestions with more than 100 votes](https://github.com/fsharp/fslang-suggestions/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20-label%3Avotes%3A0-10%20-label%3Avotes%3A11-50%20-label%3Avotes%3A51-100)
