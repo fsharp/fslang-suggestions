@@ -3,7 +3,7 @@
 
 I propose we ... (describe your suggestion here)
 
-The existing way of approching this problem in F# is ...
+The existing way of approaching this problem in F# is ...
 
 ## Pros and Cons 
 
@@ -11,11 +11,13 @@ The advantages of making this adjustment to F# are ...
 
 The disadvantages of making this adjustment to F# are ...
 
-This is/is
+## Extra informtion
 
 Estimated cost (XS, S, M, L, XL, XXL): 
 
 Related suggestions: (put links to reated suggestions here)
+
+## Affadavit (must be submitted)
 
 Please tick this by placing a cross in the box:
 * [ ] This is not a question (e.g. like one you might ask on stackoverflow)
