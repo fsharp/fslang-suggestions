@@ -18,6 +18,8 @@ Estimated cost (XS, S, M, L, XL, XXL):
 Related suggestions: (put links to reated suggestions here)
 
 Please tick this by placing a cross in the box:
+* [ ] This is not a question
+* [ ] This is a concrete language or library design suggestion
 * [ ] I have searched both open and closed suggestions on http://github.com/fsharp/fslang-suggestions and this is not a duplicate
 
 Please tick all that apply:
