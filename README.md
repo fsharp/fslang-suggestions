@@ -44,4 +44,4 @@ The decisions about moving things to "approved in principle" (and thus RFC stage
 
 Also we have a large queue of relatively small-cost "approved in principle" items, and large (and occasionally growing) number of bugs/issues in http://github.com/Microsoft/visualfsharp. Getting through these is also a priority.
 
-Probably the best thing you can do to get a feature promoted is to draft an RFC on it, even if it has not yet been marked "approved". A prototype implementation to high quality, with testing, can also help convince.
+Probably the best thing you can do to get a feature promoted is to draft an RFC on it, even if it has not yet been marked "approved". A prototype implementation to high quality, with testing, can also help convince. 
