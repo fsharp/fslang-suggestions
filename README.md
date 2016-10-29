@@ -10,7 +10,13 @@ The items marked [approved-in-principle](https://github.com/fsharp/fslang-sugges
 
 **Please search for an existing suggestion before opening a new one.** Just use GitHub search over the issues in this repository.
 
+**Voting is by giving thumbs-up reactions to an issue.** 
+
 ### [View all suggestions](https://github.com/fsharp/fslang-suggestions/issues?utf8=%E2%9C%93&q=is%3Aissue%20)
+
+### [View popular suggestions (votes by :thumbsup)](https://github.com/fsharp/fslang-suggestions/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)
+
+### [View newest suggestions](https://github.com/fsharp/fslang-suggestions/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-desc)
 
 ### [View approved-in-principle suggestions](https://github.com/fsharp/fslang-suggestions/labels/approved%20in%20principle)
 
