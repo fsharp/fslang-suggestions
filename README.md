@@ -50,4 +50,22 @@ The decisions about moving things to "approved in principle" (and thus RFC stage
 
 Also we have a large queue of relatively small-cost "approved in principle" items, and a large (and occasionally growing) number of bugs/issues in http://github.com/Microsoft/visualfsharp. Getting through these is also a priority.
 
+## When are new features a good thing?
+
+Adding endless new language features in every version has major downsides.  Here are some observations on why adding features is not necessarily a good thing:
+
+1. Stability is a virtue
+2. _Gradual_ evolution is good
+3. Adding new language features on every version is not a necessarily a sign of strength.  Many languages have spread very widely while remaining very stable (e.g. Java in 2000-2013)
+4. The addition of new features on every version can be a sign that language implementors are being incentivized (e.g. getting paid) for feature-completion rather than overall simplicity and utility.
+5. New features add learning costs to every user of the language
+
+In contrast, features which make the language more orthogonal, simpler and easier to use are generally a very good thing.
+
+## How do I get my favourite feature approved?
+
+First make sure the issue for your feature is really clear and addresses all major concerns.
+
 Probably the best thing you can do to get a feature promoted is to draft an RFC on it, even if it has not yet been marked "approved". A prototype implementation of high quality, with tests, can also help convince. 
+
+
