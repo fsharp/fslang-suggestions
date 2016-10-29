@@ -20,8 +20,6 @@ The items marked [approved-in-principle](https://github.com/fsharp/fslang-sugges
 
 ### [View declined suggestions](https://github.com/fsharp/fslang-suggestions/issues?q=is%3Aissue+label%3Adeclined)
 
-### [View suggestions with more than 100 votes](https://github.com/fsharp/fslang-suggestions/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20-label%3Avotes%3A0-10%20-label%3Avotes%3A11-50%20-label%3Avotes%3A51-100)
-
 ### [Create a new suggestion](https://github.com/fsharp/fslang-suggestions/issues/new)  (have you searched for existing similar suggestions?)
 
 The decisions about moving things to "approved in principle" (and thus RFC stage) are up to the language designer ("BDFL"), Don Syme. The votes are just used as an indicator. A huge range of factors go into the decision to "approve in principle", including
