@@ -24,6 +24,10 @@ The items marked [approved-in-principle](https://github.com/fsharp/fslang-sugges
 
 ### [Create a new suggestion](https://github.com/fsharp/fslang-suggestions/issues/new)  (have you searched for existing similar suggestions?)
 
+## Notes in the Deign Process
+
+We do not in general revisit design decisions that have already been decided.  Many suggestions will thus be closed with responses like "we considered this in F# 2.0 and decided against this".  The design notes for F# 2.0-3.0 are only available in email form, we will gradully try to make them avaiable from our archives.
+
 The decisions about moving things to "approved in principle" (and thus RFC stage) are up to the language designer ("BDFL"), Don Syme. The votes are just used as an indicator. A huge range of factors go into the decision to "approve in principle", including
 
 * estimated utility
