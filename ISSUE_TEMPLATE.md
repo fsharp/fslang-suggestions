@@ -11,13 +11,13 @@ The advantages of making this adjustment to F# are ...
 
 The disadvantages of making this adjustment to F# are ...
 
-## Extra informtion
+## Extra information
 
 Estimated cost (XS, S, M, L, XL, XXL): 
 
-Related suggestions: (put links to reated suggestions here)
+Related suggestions: (put links to related suggestions here)
 
-## Affadavit (must be submitted)
+## Affidavit (must be submitted)
 
 Please tick this by placing a cross in the box:
 * [ ] This is not a question (e.g. like one you might ask on [stackoverflow](http://stackoverflow.com)) and I have searched stackoverflow for discussions of this issue
