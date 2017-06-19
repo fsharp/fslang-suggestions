@@ -26,7 +26,6 @@ Please tick this by placing a cross in the box:
 
 Please tick all that apply:
 * [ ] This is not a breaking change to the F# language design
-* [ ] I would be willing to help implement and/or test this
-* [ ] I or my company would be willing to help crowdfund F# Software Foundation members to work on this
+* [ ] I or my company would be willing to help implement and/or test this
 
 
