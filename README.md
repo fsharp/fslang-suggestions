@@ -34,7 +34,7 @@ We do not in general revisit design decisions that have already been decided. In
 
 1. things we have previousy decided "not to do"
 2. things where we decided to do X, considered Y, and by doing X implicitly decided not to do Y
-3. things we thought about doing andd left open the future possibility of doing them
+3. things we thought about doing and left open the future possibility of doing them
 4. things we never thought of before
 
 Most of the existing open suggestions are in category 3 or 4. In general things in categories 1 and 2 won't be reconsidered unless there is a really very strong case, e.g. because of a change in circumstance. Many suggestions will thus be closed with responses like "we considered this in F# 2.0 and decided against this".  The design notes for F# 2.0-3.0 are only available in email form, we will gradually try to make them available from our archives.
