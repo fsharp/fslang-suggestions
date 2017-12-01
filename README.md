@@ -14,7 +14,7 @@ The items marked [approved-in-principle](https://github.com/fsharp/fslang-sugges
 
 ### [View newest suggestions](https://github.com/fsharp/fslang-suggestions/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-desc)
 
-### [View approved-in-principle suggestions](https://github.com/fsharp/fslang-suggestions/labels/approved%20in%20principle)
+### [View approved-in-principle suggestions](https://github.com/fsharp/fslang-suggestions/labels/approved-in-principle)
 
 ### [View started suggestions](https://github.com/fsharp/fslang-suggestions/labels/started)
 
