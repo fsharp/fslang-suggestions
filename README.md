@@ -4,7 +4,7 @@ This site is for suggestions about the future evolution of the F# Language and C
 
 **Voting is by giving :thumbsup: reactions to an issue.** 
 
-The items marked [approved-in-principle](https://github.com/fsharp/fslang-suggestions/labels/approved%20in%20principle) for F# 4.x or beyond, are eligible to be taken to an RFC. You can contribute detailed designs, implementation and testing for these items. See http://fsharp.github.io/2014/06/18/fsharp-contributions.html for information on contributing to the evolution of the F# Language Design and Core Library.
+The items marked [approved-in-principle](https://github.com/fsharp/fslang-suggestions/labels/approved-in-principle) for F# 4.x or beyond, are eligible to be taken to an RFC. You can contribute detailed designs, implementation and testing for these items. See http://fsharp.github.io/2014/06/18/fsharp-contributions.html for information on contributing to the evolution of the F# Language Design and Core Library.
 
 **Please search for an existing suggestion before opening a new one.** Just use GitHub search over the issues in this repository.
 
