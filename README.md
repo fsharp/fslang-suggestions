@@ -71,6 +71,15 @@ Adding endless new language features in every version has major downsides.  Here
 
 In contrast, features which make the language more orthogonal, simpler and easier to use are generally a very good thing.
 
+## What about optional features?
+
+There's a strong bias in the language design (and likewise in many other language designs) against optional features which effectively turn the language into a slightly different language ("bifurcate the language").  
+
+There are many social reasons  for avoiding such optional features - e.g. when you code review code, or have two programmers meeting in a team and having to decide on standards - it's one thing to have to decide on coding conventions and design idioms, it's another to have to turn the knobs and dials on the language to select what's allowed.
+
+For this reason making a feature optional will generally not used as an approach, though exceptions may be made in some cases (e.g. checked arithmetic is optional in both F# and C#).
+
+
 ## How do I get my favourite feature approved?
 
 First make sure the issue for your feature is really clear and addresses all major concerns.
