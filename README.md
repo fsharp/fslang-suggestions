@@ -32,7 +32,7 @@ The items marked [approved-in-principle](https://github.com/fsharp/fslang-sugges
 
 We do not in general revisit design decisions that have already been decided. In particular there is a distinction between
 
-1. things we have previousy decided "not to do"
+1. things we have previously decided "not to do"
 2. things where we decided to do X, considered Y, and by doing X implicitly decided not to do Y
 3. things we thought about doing and left open the future possibility of doing them
 4. things we never thought of before
@@ -44,7 +44,7 @@ The decisions about moving things to "approved in principle" (and thus RFC stage
 * estimated utility
 * estimated cost of implementing
 * completeness of proposed design (is this an "idea" or a concrete suggestion)
-* availability of alterenatives
+* availability of alternatives
 * education/learning paths and simplicity
 * does this give multiple ways to achieve the same thing
 * votes
