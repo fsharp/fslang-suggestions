@@ -55,7 +55,7 @@ The decisions about moving things to "approved in principle" (and thus RFC stage
 * usefulness (or otherwise) for interop with .NET and other languages
 * risk of churn w.r.t. bugs
 * cost of churn w.r.t. education materials (new editions of books etc.)
-* whether someone is willing to stepping up to the plate to write an RFC, implement the change and own it long term
+* whether someone is willing to step up to the plate to write an RFC, implement the change and own it long term
 
 Also we have a large queue of relatively small-cost ["approved in principle" items](https://github.com/fsharp/fslang-suggestions/labels/approved-in-principle), and a large (and occasionally growing) number of bugs/issues in http://github.com/dotnet/fsharp. Getting through these is also a priority.
 
