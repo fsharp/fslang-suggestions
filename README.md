@@ -26,7 +26,12 @@ The items marked [approved-in-principle](https://github.com/fsharp/fslang-sugges
 
 ### [View declined suggestions](https://github.com/fsharp/fslang-suggestions/issues?q=is%3Aissue+label%3Adeclined)
 
-### [Create a new suggestion](https://github.com/fsharp/fslang-suggestions/issues/new)  (have you searched for existing similar suggestions?)
+### [View all archived uservoice suggestions and comments](https://github.com/fsharp/fslang-suggestions/tree/d48c35ce216e2bff148937ec028ad61e5c273fdf/archive)
+(the comments from that time are linked but it got 404'ed)
+
+### [Create a new suggestion](https://github.com/fsharp/fslang-suggestions/issues/new) 
+(have you searched for existing similar suggestions?)
+
 
 ## Notes on the Design Process
 
