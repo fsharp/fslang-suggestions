@@ -1,10 +1,10 @@
-# Welcome to F# Language and Core Library Suggestions!
+# Welcome to F# Language and Core Library Suggestions! [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](code_of_conduct.md) 
 
-This site is for suggestions about the future evolution of the F# Language and Core Library. Please read about [the F# Language and Core Library RFC Process](http://fsharp.github.io/2016/09/26/fsharp-rfc-process.html). For discussions about tooling (editor support, compiler services etc.) please see http://fsharp.org/guides/engineering/issues.
+This repository is for suggestions about the future evolution of the F# Language and Core Library. For discussions about tooling (editor support, compiler services etc.) please see http://github.com/dotnet/fsharp.
 
 **Voting is by giving :thumbsup: reactions to an issue.** 
 
-The items marked [approved-in-principle](https://github.com/fsharp/fslang-suggestions/labels/approved-in-principle) for F# 4.x or beyond, are eligible to be taken to an RFC. You can contribute detailed designs, implementation and testing for these items. See http://fsharp.github.io/2014/06/18/fsharp-contributions.html for information on contributing to the evolution of the F# Language Design and Core Library.
+The items marked [approved-in-principle](https://github.com/fsharp/fslang-suggestions/labels/approved-in-principle) are eligible to be taken to an RFC in the [F# language design repository](https://github.com/fsharp/fslang-design). You can contribute an implementation for an RFC in the [F# development repository](http://github.com/dotnet/fsharp).
 
 **Please search for an existing suggestion before opening a new one.** Just use GitHub search over the issues in this repository.
 
@@ -31,7 +31,6 @@ The items marked [approved-in-principle](https://github.com/fsharp/fslang-sugges
 
 ### [Create a new suggestion](https://github.com/fsharp/fslang-suggestions/issues/new) 
 (have you searched for existing similar suggestions?)
-
 
 ## Notes on the Design Process
 
@@ -84,9 +83,14 @@ There are many social reasons  for avoiding such optional features - e.g. when y
 
 For this reason making a feature optional will generally not used as an approach, though exceptions may be made in some cases (e.g. checked arithmetic is optional in both F# and C#).
 
-
 ## How do I get my favourite feature approved?
 
 First make sure the issue for your feature is really clear and addresses all major concerns.
 
 Probably the best thing you can do to get a feature promoted is to draft an RFC on it, even if it has not yet been marked "approved". A prototype implementation of high quality, with tests, can also help convince. 
+
+## Code of Conduct
+
+This repository is governed by the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/).
+
+We pledge to be overt in our openness, welcoming all people to contribute, and pledging in return to value them as whole human beings and to foster an atmosphere of kindness, cooperation, and understanding.
