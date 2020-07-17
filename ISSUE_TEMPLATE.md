@@ -29,3 +29,6 @@ Please tick all that apply:
 * [ ] I or my company would be willing to help implement and/or test this
 
 
+## For Readers
+
+If you would like to see this issue implemented, please click the :+1: emoji on this issue. These counts are used to generally order the suggestions by engagement.
