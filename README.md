@@ -94,3 +94,6 @@ Probably the best thing you can do to get a feature promoted is to draft an RFC 
 This repository is governed by the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/).
 
 We pledge to be overt in our openness, welcoming all people to contribute, and pledging in return to value them as whole human beings and to foster an atmosphere of kindness, cooperation, and understanding.
+
+We additionally request that the use of personal pronouns ("you", referring to a specific person) not generally be used in discussions - obviously there are exceptions, especially in thanking or other kindnesses, but an effort should be made to make technical points in a non-personal way. If a personalized mode is used for technical argument the moderators may delete these contributions, requesting that content be reposted without making arguments in this way.
+
