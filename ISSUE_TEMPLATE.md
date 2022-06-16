@@ -1,6 +1,4 @@
 
-# Title of Suggestion
-
 I propose we ... (describe your suggestion here)
 
 The existing way of approaching this problem in F# is ...
