@@ -1,19 +1,19 @@
 
-I propose we ... (describe your suggestion here)
+**I propose we** ... (describe your suggestion here)
 
-The existing way of approaching this problem in F# is ...
+**The existing way of approaching this problem in F# is** ...
 
 ## Pros and Cons 
 
-The advantages of making this adjustment to F# are ...
+**The advantages of making this adjustment to F# are** ...
 
-The disadvantages of making this adjustment to F# are ...
+**The disadvantages of making this adjustment to F# are** ...
 
 ## Extra information
 
-Estimated cost (XS, S, M, L, XL, XXL): 
+**Estimated cost (XS, S, M, L, XL, XXL):**  
 
-Related suggestions: (put links to related suggestions here)
+**Related suggestions:** (put links to related suggestions here)
 
 ## Affidavit (please submit!)
 
