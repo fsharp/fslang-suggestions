@@ -1,4 +1,4 @@
-# Welcome to F# Language and Core Library Suggestions! [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](code_of_conduct.md) 
+# Welcome to F# Language and Core Library Suggestions! [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md) 
 
 This repository is for suggestions about the future evolution of the F# Language and Core Library. For discussions about tooling (editor support, compiler services etc.) please see http://github.com/dotnet/fsharp.
 
