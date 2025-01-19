@@ -43,7 +43,14 @@ We do not in general revisit design decisions that have already been decided. In
 
 Most of the existing open suggestions are in category 3 or 4. In general things in categories 1 and 2 won't be reconsidered unless there is a really very strong case, e.g. because of a change in circumstance. Many suggestions will thus be closed with responses like "we considered this in F# 2.0 and decided against this".  The design notes for F# 2.0-3.0 are only available in email form, we will gradually try to make them available from our archives.
 
-The decisions about moving things to "approved in principle" (and thus RFC stage) are up to the language designer ("BDFL"), [Don Syme](https://github.com/dsyme). The votes are just used as an indicator. A huge range of factors go into the decision to "approve in principle", including:
+The decisions about moving things to "approved in principle" (and thus RFC stage) are up to the F# Language Design squad. These are currently
+* [Don Syme](https://github.com/dsyme)
+* [Vlad Zarytovskii](https://github.com/vzarytovskii)
+* [Tomas Grosup](https://github.com/T-Gro)
+
+Where necessary [Don Syme](https://github.com/dsyme) will act as final decision maker. This squad is just people who have the right to label issues - putting that aside everyone should please consider themselves equal contributors. We are open to diversifying this squad further, please see [this note from Don Syme](https://github.com/fsharp/fslang-suggestions/issues/1403).
+
+Votes are just used as an indicator. A huge range of factors go into the decision to "approve in principle", including:
 
 * estimated utility
 * estimated cost of implementing
