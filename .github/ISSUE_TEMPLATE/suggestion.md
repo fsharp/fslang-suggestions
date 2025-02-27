@@ -1,3 +1,11 @@
+---
+name: Suggestion
+about: Suggest an idea for F#
+title: ''
+labels: ''
+assignees: ''
+
+---
 
 **I propose we** ... (describe your suggestion here)
 
